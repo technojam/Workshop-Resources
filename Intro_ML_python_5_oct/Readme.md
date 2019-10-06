@@ -8,7 +8,7 @@
     - [Tuples](https://www.geeksforgeeks.org/python-tuples/)
     - [Dictionary](https://www.geeksforgeeks.org/python-dictionary/)<br />
     <br />
-    Additional:
+Additional:
         - [Sets](https://www.geeksforgeeks.org/python-sets/)
 
 
