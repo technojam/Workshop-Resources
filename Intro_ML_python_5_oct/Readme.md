@@ -6,7 +6,7 @@
     - [String](https://www.geeksforgeeks.org/python-strings/)
     - [List](https://www.geeksforgeeks.org/python-list/)
     - [Tuples](https://www.geeksforgeeks.org/python-tuples/)
-    - [Dictionary](https://www.geeksforgeeks.org/python-dictionary/)
+    - [Dictionary](https://www.geeksforgeeks.org/python-dictionary/)<br />
     Additional:
         - [Sets](https://www.geeksforgeeks.org/python-sets/)
 
