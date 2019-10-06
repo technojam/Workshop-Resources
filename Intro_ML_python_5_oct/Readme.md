@@ -30,9 +30,16 @@ Additional:
 [Loops](https://www.geeksforgeeks.org/loops-in-python/):Python programming language provides following types of loops to handle looping requirements. Python provides three ways for executing the loops. While all the ways provide similar basic functionality, they differ in their syntax and condition checking time.<br />
 [Functions](https://www.geeksforgeeks.org/functions-in-python/):A function is a set of statements that take inputs, do some specific computation and produces output. The idea is to put some commonly or repeatedly done task together and make a function, so that instead of writing the same code again and again for different inputs, we can call the function.
 Python provides built-in functions like print(), etc. but we can also create your own functions. These functions are called user-defined functions.<br />
-[Modules](https://www.tutorialspoint.com/python/python_modules.htm):A module allows you to logically organize your Python code. Grouping related code into a module makes the code easier to understand and use. A module is a Python object with arbitrarily named attributes that you can bind and reference.
+[Modules](https://www.tutorialspoint.com/python/python_modules.htm):A module allows you to logically organize your Python code. Grouping related code into a module makes the code easier to understand and use. A module is a Python object with arbitrarily named attributes that you can bind and reference.<br />
 
-<b>#Numpy</b>
+
+<b>#Numpy</b><br/>
+Numpy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays. It is the fundamental package for scientific computing with Python.
+Besides its obvious scientific uses, Numpy can also be used as an efficient multi-dimensional container of generic data.
+<br/>
+
+ - [Numpy User Guide](https://docs.scipy.org/doc/numpy/user/index.html)
+ - [Numpy with Exmples](https://www.geeksforgeeks.org/python-numpy/)
 
 <b>#Pandas</b>
 
