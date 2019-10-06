@@ -1,4 +1,18 @@
 <b>##Python</b><br />
+Python is a widely used general-purpose, high-level programming language.
+Python allows programming in Object-Oriented and Procedural paradigms.
+Python programs generally are smaller than other programming languages like Java. Programmers have to type relatively less and indentation requirement of the language, makes them readable all the time.
+Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber… etc.
+The biggest strength of the Python is large library which can be used for the following
+Machine Learning
+GUI Applications (like Kivy, Tkinter, PyQt etc. )
+Web frameworks like Django (used by YouTube, Instagram, Dropbox)
+Image processing (like OpenCV, Pillow)
+Web scraping (like Scrapy, BeautifulSoup, Selenium)
+Test frameworks
+Multimedia
+Scientific computing
+Text processing and many more..
 #Link for the resources:
 
 [Keywords](https://www.geeksforgeeks.org/keywords-python-set-1/):Python language also reserves some of keywords that convey special meaning. Knowledge of these is necessary part of learning this language.<br>
