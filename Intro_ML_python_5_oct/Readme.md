@@ -1,7 +1,7 @@
 <b>##Python</b>
 #Link for the resources:
 
-- [Keywords](https://www.geeksforgeeks.org/keywords-python-set-1/)
+Keywords:Python language also reserves some of keywords that convey special meaning. Knowledge of these is necessary part of learning this language.[Keywords](https://www.geeksforgeeks.org/keywords-python-set-1/)
 - [Operators](https://www.geeksforgeeks.org/basic-operators-python/)
 - DataTypes
     - [String](https://www.geeksforgeeks.org/python-strings/)
