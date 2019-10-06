@@ -9,7 +9,7 @@ DataTypes:
 - [Tuples](https://www.geeksforgeeks.org/python-tuples/)
 - [Dictionary](https://www.geeksforgeeks.org/python-dictionary/)<br />
 Additional:
-  - [Sets](https://www.geeksforgeeks.org/python-sets/)<br />
+  - [Sets](https://www.geeksforgeeks.org/python-sets/)
 [Loops](https://www.geeksforgeeks.org/loops-in-python/):Python programming language provides following types of loops to handle looping requirements. Python provides three ways for executing the loops. While all the ways provide similar basic functionality, they differ in their syntax and condition checking time.<br />
 [Functions](https://www.geeksforgeeks.org/functions-in-python/):A function is a set of statements that take inputs, do some specific computation and produces output. The idea is to put some commonly or repeatedly done task together and make a function, so that instead of writing the same code again and again for different inputs, we can call the function.
 Python provides built-in functions like print(), etc. but we can also create your own functions. These functions are called user-defined functions.<br />
