@@ -1,4 +1,5 @@
-<b>##Python</b><br />
+##Python
+<br />
 ---
 Python is a widely used general-purpose, high-level programming language.
 Python allows programming in Object-Oriented and Procedural paradigms.
