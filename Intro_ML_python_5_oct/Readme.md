@@ -33,6 +33,7 @@ Python provides built-in functions like print(), etc. but we can also create you
 [Modules](https://www.tutorialspoint.com/python/python_modules.htm):A module allows you to logically organize your Python code. Grouping related code into a module makes the code easier to understand and use. A module is a Python object with arbitrarily named attributes that you can bind and reference.<br />
 
 
+
 <b>#Numpy</b><br/>
 Numpy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays. It is the fundamental package for scientific computing with Python.
 Besides its obvious scientific uses, Numpy can also be used as an efficient multi-dimensional container of generic data.
@@ -41,6 +42,11 @@ Besides its obvious scientific uses, Numpy can also be used as an efficient mult
  - [Numpy User Guide](https://docs.scipy.org/doc/numpy/user/index.html)
  - [Numpy with Exmples](https://www.geeksforgeeks.org/python-numpy/)
 
+1. Python offical documentation  [ Documentation ](https://docs.python.org/3.7/tutorial/index.html)
+2. Tutorial Videos [Videos](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+
+
+
 <b>#Pandas</b>
 
-<b>#pytorch</b>
+<b>#Pytorch</b>
