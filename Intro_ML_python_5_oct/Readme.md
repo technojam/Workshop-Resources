@@ -47,6 +47,22 @@ Besides its obvious scientific uses, Numpy can also be used as an efficient mult
 
 
 
-<b>#Pandas</b>
+<b>#Pandas</b><br/>
+Pandas is an opensource library that allows to you perform data manipulation in Python. Pandas library is built on top of Numpy, meaning Pandas needs Numpy to operate. Pandas provide an easy way to create, manipulate and wrangle the data. Pandas is also an elegant solution for time series data.
+<br/>
 
-<b>#Pytorch</b>
+ - [Pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
+ - [Pandas Tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
+ 
+ Tutorial Video [Video](https://www.youtube.com/watch?v=B42n3Pc-N2A)
+ 
+ 
+ 
+<b>#Pytorch</b><br/>
+PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. It is primarily developed by Facebook's artificial intelligence research group. It is free and open-source software released under the Modified BSD license.
+<br/>
+
+ - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+ - [PyTorch Tutorials](https://pytorch.org/tutorials)
+
+Tutorial videos for PyTorch [Tutorial](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
