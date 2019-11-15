@@ -1,14 +1,22 @@
-import React from 'react'
-/* @person who is assigned this page set your styles here. height 600 is just for layout.*/
-const style ={
-   
-}
+import React, { useState } from 'react';
+//material ui component
+import Card from '@material-ui/core/Card';
+import CardMedia from '@material-ui/core/CardMedia';
+import CardContent from '@material-ui/core/CardContent';
+import Typography from '@material-ui/core/Typography';
+import { Grid } from '@material-ui/core';
+import Container from '@material-ui/core/Container';
 
-function Blog() {
-    return(
-        <div className="team" style={style}>
-            Blog
-        </div>
-    );
-}
-export default Blog;
+
+const Achievements = () => {
+
+
+   return (
+      <Container maxWidth='lg'>
+         <div >
+            
+         </div>
+      </Container>
+   );
+};
+export default Achievements;

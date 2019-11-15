@@ -1,6 +1,6 @@
 import React from 'react';
 import { Switch, Route} from 'react-router-dom';
-import { aboutus, achievements, contactus, groups, homepage, mentorship, blog } from './Pages/'
+import { aboutus,contactus, homepage, blog } from './Pages/'
 /* Remove style here. This is just for demo purpose.*/
 const style ={
     height:600,
