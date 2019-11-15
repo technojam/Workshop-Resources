@@ -21,7 +21,7 @@ export default props =>
                     </Button>
                 <Hidden smDown>
                 <Button style={{style}} color="inherit" component={Link} to={'/aboutus'}>About Us</Button>
-                <Button style={{style}} color="inherit" component={Link} to={'/blog'}>Team</Button>
+                <Button style={{style}} color="inherit" component={Link} to={'/blog'}>Blog</Button>
                 <Button style={{style}} color="inherit" component={Link} to={'/contactus'}>Contact Us</Button>
                 <Button style={{style}} color="inherit" component={Link} to={'/login'}>Login</Button>
                 </Hidden>
