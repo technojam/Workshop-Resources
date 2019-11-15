@@ -1,3 +1,7 @@
+![Image of Inital Project](https://tj-static.s3.ap-south-1.amazonaws.com/initalProject.png)
+
+
+
 ### Lets Dive in 
 
 #####
