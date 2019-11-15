@@ -1,4 +1,4 @@
-![Image of Inital Project](https://tj-static.s3.ap-south-1.amazonaws.com/initalProject.png)
+![Image of Inital Project](https://tj-static.s3.ap-south-1.amazonaws.com/initalProject.png)![Image of Final Project](https://tj-static.s3.ap-south-1.amazonaws.com/finalProject.png)
 
 
 
@@ -838,5 +838,5 @@ npm install --save react-fontawesome
 
       export default Home;
 
-
+![Image of Recipe Project](https://tj-static.s3.ap-south-1.amazonaws.com/recipe.png)![Image of Hotel Project](https://tj-static.s3.ap-south-1.amazonaws.com/hotel.png)
 
