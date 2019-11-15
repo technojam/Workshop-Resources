@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #333333;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+a {
+    margin: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
