@@ -1,12 +1,12 @@
-###Lets Dive in 
+### Lets Dive in 
 
 #####
 npm install --save react-fontawesome
 
-###open public/index.html
+### open public/index.html
       <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 
-#####lets add a footer
+##### lets add a footer
           import React from 'react';
 
       //material ui component
@@ -241,4 +241,5 @@ npm install --save react-fontawesome
          </Container>
       );
       export default Aboutus;
+##### 
 
